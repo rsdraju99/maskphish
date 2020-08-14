@@ -2,8 +2,6 @@
 	<img src="https://i.imgur.com/plp3lJu.jpg" width="600px" hight="100px">
 </p>
 
-## Author: https://github.com/jaykali
-## Twitter: https://twitter.com/KaliLinux_in
 
 
 ### MaskPhish is a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com).
@@ -15,12 +13,11 @@ Usage of MaskPhish for attacking targets without prior mutual consent is illegal
 ## Installing (Tested on Kali Linux, Termux & Ubuntu):
 
 ```
-git clone https://github.com/jaykali/maskphish
+git clone https://github.com/rsdraju99/maskphish.git
 cd maskphish
 ./maskphish
 ```
-## Detailed Article:
-https://www.kalilinux.in/2020/07/how-to-hide-phishing-link.html
+
 
 ## Screenshot
 <p align="center">
